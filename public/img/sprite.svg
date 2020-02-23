@@ -1,0 +1,62 @@
+<svg width="0" height="0" class="hidden">
+  <symbol viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" id="check">
+    <path d="M40 12L18 34 8 24" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+  <symbol viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" id="facebook">
+    <path d="M36 4h-6a10 10 0 0 0-10 10v6h-6v8h6v16h8V28h6l2-8h-8v-6a2 2 0 0 1 2-2h6V4z" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+  <symbol viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" id="heart">
+    <path d="M41.68 9.22a10.999 10.999 0 0 0-15.56 0L24 11.34l-2.12-2.12A11.002 11.002 0 1 0 6.32 24.78l2.12 2.12L24 42.46 39.56 26.9l2.12-2.12a11 11 0 0 0 0-15.56z" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+  <symbol viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" id="instagram">
+    <g clip-path="url(#clip0)" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M34 4H14C8.477 4 4 8.477 4 14v20c0 5.523 4.477 10 10 10h20c5.523 0 10-4.477 10-10V14c0-5.523-4.477-10-10-10z"></path>
+      <path d="M32 22.74a8 8 0 1 1-15.828 2.347A8 8 0 0 1 32 22.741z"></path>
+    </g>
+    <defs>
+      <clipPath id="clip0">
+        <path fill="#fff" d="M0 0h48v48H0z"></path>
+      </clipPath>
+    </defs>
+  </symbol>
+  <symbol viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" id="mail">
+    <path d="M8 8h32c2.2 0 4 1.8 4 4v24c0 2.2-1.8 4-4 4H8c-2.2 0-4-1.8-4-4V12c0-2.2 1.8-4 4-4z" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M44 12L24 26 4 12" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+  <symbol viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" id="menu">
+    <path d="M6 24h36M6 12h36M6 36h36" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+  <symbol viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" id="right-arrow">
+    <path d="M18 36l12-12-12-12" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+  <symbol viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" id="search">
+    <path d="M22 38c8.837 0 16-7.163 16-16S30.837 6 22 6 6 13.163 6 22s7.163 16 16 16zm20 4l-8.7-8.7" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+  <symbol viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" id="telegram">
+    <path d="M44 4L22 26M44 4L30 44l-8-18-18-8L44 4z" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+  <symbol viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" id="shopping-bag-1">
+    <path d="M43.2 41.492l-2.749-30.95a1.323 1.323 0 0 0-1.315-1.207h-5.654C33.404 4.172 29.182 0 24 0c-5.183 0-9.404 4.172-9.482 9.335H8.864c-.687 0-1.257.52-1.316 1.207L4.8 41.492c0 .04-.01.079-.01.118 0 3.524 3.23 6.39 7.205 6.39h24.01c3.975 0 7.205-2.866 7.205-6.39 0-.04 0-.079-.01-.118zM24 2.65a6.839 6.839 0 0 1 6.832 6.685H17.168A6.839 6.839 0 0 1 24 2.65zm12.005 42.7h-24.01c-2.493 0-4.515-1.65-4.555-3.681l2.631-29.674h4.437v4.025a1.32 1.32 0 0 0 1.325 1.325 1.32 1.32 0 0 0 1.325-1.325v-4.025h13.674v4.025a1.32 1.32 0 0 0 1.325 1.325 1.32 1.32 0 0 0 1.325-1.325v-4.025h4.437l2.64 29.674c-.039 2.032-2.07 3.68-4.554 3.68z"
+      fill="#000"></path>
+  </symbol>
+  <symbol viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" id="shopping-bag">
+    <path d="M12 4l-6 8v28a4 4 0 0 0 4 4h28a4 4 0 0 0 4-4V12l-6-8H12zm-6 8h36m-10 8a8 8 0 0 1-16 0" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+  <symbol viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" id="square">
+    <path d="M38 6H10a4 4 0 0 0-4 4v28a4 4 0 0 0 4 4h28a4 4 0 0 0 4-4V10a4 4 0 0 0-4-4z" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+  <symbol viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" id="truck">
+    <path d="M32 6H2v26h30V6zm0 10h8l6 6v10H32V16zM11 42a5 5 0 1 0 0-10 5 5 0 0 0 0 10zm26 0a5 5 0 1 0 0-10 5 5 0 0 0 0 10z" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+  <symbol viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" id="youtube">
+    <g clip-path="url(#clip0)" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M45.08 12.84a5.56 5.56 0 0 0-3.88-4C37.76 8 24 8 24 8s-13.76 0-17.2.92a5.56 5.56 0 0 0-3.88 4A58 58 0 0 0 2 23.5a58 58 0 0 0 .92 10.66A5.56 5.56 0 0 0 6.8 38c3.44.92 17.2.92 17.2.92s13.76 0 17.2-.92a5.56 5.56 0 0 0 3.88-4A58.13 58.13 0 0 0 46 23.5a58 58 0 0 0-.92-10.66z"></path>
+      <path d="M19.5 30.04L31 23.5l-11.5-6.54v13.08z"></path>
+    </g>
+    <defs>
+      <clipPath id="clip0">
+        <path fill="#fff" d="M0 0h48v48H0z"></path>
+      </clipPath>
+    </defs>
+  </symbol>
+</svg>
